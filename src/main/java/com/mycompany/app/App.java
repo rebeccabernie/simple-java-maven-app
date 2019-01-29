@@ -6,6 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
+	// Testing jenkins with commit from different machine
     private final String message = "Hello World!";
 
     public App() {}
